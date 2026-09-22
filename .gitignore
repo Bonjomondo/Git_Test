@@ -20,6 +20,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# Python environment / API secrets
+.env
+
 # IDE
 .vscode/
 .idea/
