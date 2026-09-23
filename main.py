@@ -17,6 +17,7 @@ def main():
 
     # 更多功能可以在这里添加
     greet_user("Git 用户")
-
+    print("测试111")
 if __name__ == "__main__":
     main()
+print("我也不知道写什么")
